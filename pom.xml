@@ -8,7 +8,7 @@
   <description>Root project</description>
   
   <modules>
-  	<!-- <module>shopme-common</module> -->
+  	<module>shopme-common</module>
   	<module>shopme-web-parent</module>
   </modules>
   
