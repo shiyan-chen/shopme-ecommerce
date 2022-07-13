@@ -6,4 +6,4 @@ The modules in the Admin application are: Users, Categories, Brands, Products, C
 
 The modules in the Shopping application are: categories listing, product details, search products, shopping cart, checkout, manage orders, tracking orders, customer registration.
 
-ShopMe Ecommerce Web App will be deployed on Heroku cloud platform, with user's uploaded files stored on Amazon S3 server.
+ShopMe Ecommerce Web App will be deployed on Heroku cloud platform, with user's uploaded files stored on Amazon S3 server. The project is expected to be completed at Aug, 2022
